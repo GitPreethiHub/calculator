@@ -6,27 +6,21 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-       
        clone a github repository
        start a django admin project
 
 ### Step 2:
-
       inser import.os
       add allowed host
 
 ### Step 3:
-
      create index.html under static/html folder
      write code to design a simple calculator
 
 ### Step 4:
- 
       start app myapp
       migrate the changes and run server
-
 ## PROGRAM :
-     
      <!DOCTYPE html>
      <html>
      <head>
@@ -47,8 +41,6 @@ To design a website to perform mathematical calculations in server side.
             font-weight: bold;
             border-radius: 2px;
         }
-
-
         input[type="button"]{
             width: 100%;
             padding: 20px 40px;
@@ -100,9 +92,6 @@ To design a website to perform mathematical calculations in server side.
      </body>
      </html>
 ## OUTPUT:
-
 ![calculator](calculator.png)
-
 ## Result:
-    
     Thus, a website to perform basic calculations was successfully created.
